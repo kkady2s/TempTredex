@@ -1,1 +1,257 @@
-{"sections":{"slideshow_TXBGCJ":{"type":"slideshow","blocks":{"slide_j8zLGP":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/front-image2B_e91c7e89-2862-4c59-ad40-db948a330157.jpg","heading":"<strong>Thoughtfully crafted<\/strong>","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035","text_alignment_mobile":"center"}},"slide_RXejmG":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/front-image7.jpg","heading":"<strong>Personalized designs<\/strong>","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035","text_alignment_mobile":"center"}},"slide_BmiiYL":{"type":"slide","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/front-image3B.jpg","heading":"<strong>With a personalized design touch<\/strong>","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035","text_alignment_mobile":"center"}},"slide_NpGHUU":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/front-image1E.jpg","heading":"<strong>With Refreshing Accessories<\/strong>","heading_size":"h1","subheading":"","button_label":"","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":40,"color_scheme":"scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035","text_alignment_mobile":"center"}}},"block_order":["slide_j8zLGP","slide_RXejmG","slide_BmiiYL","slide_NpGHUU"],"settings":{"layout":"full_bleed","slide_height":"small","slider_visual":"dots","auto_rotate":false,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":""}},"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"Thoughtfully crafted for modern homes","heading_size":"h0"}},"button":{"type":"buttons","disabled":true,"settings":{"button_label_1":"Explore Items","button_link_1":"shopify:\/\/collections","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","button"],"disabled":true,"settings":{"image":"shopify:\/\/shop_images\/front-image2B_e91c7e89-2862-4c59-ad40-db948a330157.jpg","image_overlay_opacity":40,"image_height":"small","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-3","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"featured_collection":{"type":"featured-collection","settings":{"title":"Featured products","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"frontpage","products_to_show":8,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":false,"color_scheme":"scheme-1","image_ratio":"adapt","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"quick_add":"none","columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}}},"order":["slideshow_TXBGCJ","image_banner","featured_collection"]}
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "sections": {
+    "slideshow_TXBGCJ": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_j8zLGP": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front-image2B_e91c7e89-2862-4c59-ad40-db948a330157.jpg",
+            "heading": "<strong>Thoughtfully crafted<\/strong>",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_RXejmG": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front-image7.jpg",
+            "heading": "<strong>Personalized designs<\/strong>",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_BmiiYL": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front-image3B.jpg",
+            "heading": "<strong>With a personalized design touch<\/strong>",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_NpGHUU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front-image1E.jpg",
+            "heading": "<strong>With Refreshing Accessories<\/strong>",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_j8zLGP",
+        "slide_RXejmG",
+        "slide_BmiiYL",
+        "slide_NpGHUU"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Thoughtfully crafted for modern homes",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Explore Items",
+            "button_link_1": "shopify:\/\/collections",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/front-image2B_e91c7e89-2862-4c59-ad40-db948a330157.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_8kYYYP": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_FriQVL": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front-image2Xmobile.jpg",
+            "heading": "<strong>Thoughtfully crafted<\/strong>",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_EHtghK": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front-image1Xmobile.jpg",
+            "heading": "<strong>Personalized Design<\/strong>",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_TpWCft": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front-image7Xmobile.jpg",
+            "heading": "<strong>With Refreshing Accessories<\/strong>",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_FriQVL",
+        "slide_EHtghK",
+        "slide_TpWCft"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "slideshow_TXBGCJ",
+    "image_banner",
+    "featured_collection",
+    "slideshow_8kYYYP"
+  ]
+}
