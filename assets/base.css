@@ -3584,3 +3584,7 @@ details-disclosure > details {
 a:hover {
 color: #00b3ba;
 }
+
+.gradient{
+background-color: #00b3ba;
+}
