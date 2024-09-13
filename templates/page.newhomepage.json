@@ -71,10 +71,92 @@
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
       }
+    },
+    "collection_list_b4xieH": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_jGMj7x": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_GbEemL": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_gQ8ecG": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_jGMj7x",
+        "featured_collection_GbEemL",
+        "featured_collection_gQ8ecG"
+      ],
+      "settings": {
+        "title": "CollectionsA",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collection_list_QVxppP": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_beEdRV": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_LtyRBF": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_prGbLm": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_beEdRV",
+        "featured_collection_LtyRBF",
+        "featured_collection_prGbLm"
+      ],
+      "settings": {
+        "title": "CollectionsB",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "slideshow_ia7kH4"
+    "slideshow_ia7kH4",
+    "collection_list_b4xieH",
+    "collection_list_QVxppP"
   ]
 }
