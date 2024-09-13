@@ -84,13 +84,13 @@
         "featured_collection_GbEemL": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "kitchen"
           }
         },
         "featured_collection_gQ8ecG": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "bathroom-accessories"
           }
         }
       },
