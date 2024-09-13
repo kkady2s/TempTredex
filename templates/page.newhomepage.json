@@ -16,9 +16,65 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "slideshow_ia7kH4": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_tkraTD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front-image2C.jpg",
+            "heading": "<strong>Thoughtfully crafted<\/strong>",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_xHnhmh": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/front-image1E.jpg",
+            "heading": "Personalized designs",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-5",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_tkraTD",
+        "slide_xHnhmh"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "slideshow_ia7kH4"
   ]
 }
