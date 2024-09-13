@@ -41,9 +41,9 @@
         "slide_xHnhmh": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/front-image1E.jpg",
-            "heading": "Personalized designs",
-            "heading_size": "h2",
+            "image": "shopify:\/\/shop_images\/front-image7.jpg",
+            "heading": "<strong>Personalized designs<\/strong>",
+            "heading_size": "h1",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -52,7 +52,7 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
-            "color_scheme": "scheme-5",
+            "color_scheme": "scheme-b7a6a524-62e2-4ea3-b878-d02ccef86035",
             "text_alignment_mobile": "center"
           }
         }
